@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="names">
+        <item>Lanzamiento : Caligrafía de los sentidos</item>
+        <item>"Churo Díaz en vivo"</item>
+        <item>"3º Encuentro Ciudad Caribe Colombia"</item>
+        <item>"Curso de Heladería Saludable- Barranquilla"</item>
+        <item>"Congreso vive la fe"</item>
+        <item>"Conversación: Barranquilla y sus letras"</item>
+        <item>"Revitalizando el espíritu senior"</item>
+        <item>"Diabetes Fun Run 2k Y 5k"</item>
+        <item>"Proximamente - Riosonica Festival 2019"</item>
+        <item>"THE NIGHTMARE BEFORE CHRISTMAS</item>
+    </array>
+    <array name="fecha">
+        <item>Fecha: Miercoles 13 de noviembre</item>
+        <item>Fecha: Sábado 16 de noviembre</item>
+        <item>Fecha: Miercoles 13 de noviembre. \nHora: 08:30 am hasta 05:30 pm</item>
+        <item>Fecha: Jueves 14 de noviembre \nHora: 09:00 am to Fri Nov 15 2019 at 01:00 pm</item>
+        <item>Fecha: Viernes 15 de noviembre \nHora: 09:00 am hasta las 08:00 pm</item>
+        <item>Fecha: Jueves 21 de noviembre \nHora: 06:00 pm hasta las 08:00 pm</item>
+        <item>Fecha: Sábado 23 de noviembre \nHora: 08:00 am hasta las 12:00 pm</item>
+        <item>Fecha: Domingo 24 de noviembre \nHora: 06:00 am hasta las 11:00 am </item>
+        <item>Fecha: Jueves 30 de noviembre \nHora: 08:00 pm hasta el Sabado 01 de diciembre de 2019 a las 03:00 am</item>
+        <item>Fecha: Domingo 01 de noviembre \nHora: 01:30 pm hasta las 07:00 pm</item>
+    </array>
+    <array name="lugar">
+        <item>Lugar: Museo de Antropología Universidad del Atlántico (Sala del Agua) Calle 68 # 53 - 45 - Barranquilla </item>
+        <item>Lugar: Trucupey - Barranquilla</item>
+        <item>Lugar: Coliseo De La Universidad Del Norte, Barranquilla</item>
+        <item>Lugar: Gato Dumas, Carrera 58 # 72-110, 080001 Barranquilla</item>
+        <item>Lugar: CBINT.org, Cl. 78 #57-200,, 080001 Barranquilla</item>
+        <item>Lugar: Fundación La Cueva, Barranquilla</item>
+        <item>Lugar: Centro Empresarial Green Towers, Calle 77B # 57 - 103, Barranquilla</item>
+        <item>Lugar: Barranquilla</item>
+        <item>Lugar: Base Naval ARC Barranquilla, Barranquilla</item>
+        <item>Lugar: Combarranquilla Unidad Country, Cl 76 # 57 - 71, 080001 Barranquilla</item>
+    </array>
+    <array name="thumbnail">
+        <item>@drawable/thumb1</item>
+        <item>@drawable/thumb2</item>
+        <item>@drawable/thumb3</item>
+        <item>@drawable/thumb4</item>
+        <item>@drawable/thumb5</item>
+        <item>@drawable/thumb6</item>
+        <item>@drawable/thumb7</item>
+        <item>@drawable/thumb8</item>
+        <item>@drawable/thumb9</item>
+        <item>@drawable/thumb10</item>
+    </array>
+
+    <array name="valor">
+        <item>Valor: $20.000</item>
+        <item>Valor: $35.000</item>
+        <item>Valor: Entrada gratis</item>
+        <item>Valor: $200.000</item>
+        <item>Valor: Entrada gratis </item>
+        <item>Valor: Entrada gratis </item>
+        <item>Valor: Entrada gratis</item>
+        <item>Valor: $20.000 </item>
+        <item>Valor: Entrada gratis</item>
+        <item>Valor: $20.000</item>
+    </array>
+    <array name="retos">
+        <item>Reto: Realiza un video explicando lo que más te gustó del evento y compartirlo en tus redes sociales</item>
+        <item>Reto: Tomate una foto en la entrada del evento y luego otra dentro del evento y comparte las fotos en tus redes sociales</item>
+        <item>Reto: Comparte la información del evento en tus redes sociales</item>
+        <item>Reto: Realiza un video explicando lo que más te gustó del evento y compartirlo en tus redes sociales</item>
+        <item>Reto: Tomate una foto en la entrada del evento y luego otra dentro del evento y comparte las fotos en tus redes sociales</item>
+        <item>Reto: Realiza un video explicando lo que más te gustó del evento y compartirlo en tus redes sociales</item>
+        <item>Reto: Comparte la información del evento en tus redes sociales</item>
+        <item>Reto: Realiza un video explicando lo que más te gustó del evento y compartirlo en tus redes sociales</item>
+        <item>Reto: Tomate una foto en la entrada del evento y luego otra dentro del evento y comparte las fotos en tus redes sociales</item>
+        <item>Reto: Comparte la información del evento en tus redes sociales</item>
+    </array>
+    <!-- -
+    <array name="">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </array>
+    <!- -->
+</resources>

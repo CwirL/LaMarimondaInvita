@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Marimonda Invita</string>
+    <item name="event_img" type="id" />
+</resources>
